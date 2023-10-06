@@ -9,6 +9,7 @@
   <a href="https://anastasiadorfman.com/">
     <img src="https://anastasiadorfman.com/assets/favicon_io/favicon-32x32.png" alt="AD Badge" width="30px/>
   </a>
+</div>
 
 <br/>
 <br/>
