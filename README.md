@@ -14,6 +14,12 @@
   </a> -->
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=anastasia-dorfman&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+
 <!--
 **anastasia-dorfman/anastasia-dorfman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
