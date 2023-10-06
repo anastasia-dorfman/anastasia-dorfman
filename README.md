@@ -74,7 +74,7 @@ I'm a senior IT student with a passion for Web Development <img src="https://med
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-dorfman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-dorfman)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-dorfman)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasia-dorfman&show_icons=true&theme=radical)
 
