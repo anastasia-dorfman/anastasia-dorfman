@@ -10,8 +10,7 @@
     <img src="https://anastasiadorfman.com/assets/favicon_io/favicon-32x32.png" alt="AD Badge" width="30px/>
   </a>
 
-
-<br/>
+<div></div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anastasia-dorfman&style=flat-square&color=blue" alt=""/>
 </div>
