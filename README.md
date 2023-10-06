@@ -71,7 +71,7 @@ I'm a senior IT student with a passion for Web Development <img src="https://med
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anastasia-dorfman&theme=radical&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-dorfman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-dorfman&layout=compact&theme=radical)](https://github.com/anastasia-dorfman/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-dorfman)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-dorfman&layout=compact)](https://github.com/anastasia-dorfman/github-readme-stats)
