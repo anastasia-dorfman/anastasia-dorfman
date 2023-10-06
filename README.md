@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://anastasiadorfman.com/assets/favicon_io/favicon-192x192.png" width="100"/>
+  <img src="https://anastasiadorfman.com/assets/favicon_io/favicon-512x512.png" width="100"/>
 </div>
 
 <!--
