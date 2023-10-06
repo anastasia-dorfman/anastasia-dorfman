@@ -46,7 +46,7 @@ I'm a senior IT student with a passion for Web Development <img src="https://med
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiadorfman/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/anastasiadorfman/)
 
 
 <!--
