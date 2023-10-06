@@ -15,9 +15,11 @@
   </a>
 </div>
 
+<div align="center">
 <h1>
   hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRzYjN6OWd1cDY0NHc4MWZqOGw0ejh5c2lmNzlxeG5wMW80dXlpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" width="600" height="300"/>
