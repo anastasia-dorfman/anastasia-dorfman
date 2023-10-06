@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/anastasiadorfman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://anastasiadorfman.com/">
+    <img src="https://anastasiadorfman.com/assets/favicon_io/favicon-32x32.png" alt="AD Badge" width="20px/>
+  </a>
 <!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -46,7 +49,7 @@ I'm a senior IT student with a passion for Web Development <img src="https://med
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/anastasiadorfman/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiadorfman/)
 
 
 <!--
