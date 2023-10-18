@@ -2,6 +2,10 @@
   <img src="https://anastasiadorfman.com/assets/favicon_io/favicon-512x512.png" width="100"/>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anastasia-dorfman&style=flat-square&color=blue" alt=""/>
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anastasiadorfman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,9 +15,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anastasia-dorfman&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 <div id="hi" align="center">
   <h1>
