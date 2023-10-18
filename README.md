@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anastasiadorfman/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" margin-right="3px"/>
   </a>
   <a href="https://anastasiadorfman.com/">
     <img src="https://anastasiadorfman.com/assets/favicon_io/favicon-32x32.png" alt="AD Badge" width="20px"/>
