@@ -31,7 +31,7 @@
 
 ---
 
-### :technologist: About Me :
+### :woman_technologist: About Me :
 
 I'm a senior IT student with a passion for Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am located in Moncton, NB, Canada, but open to relocation for the right opportunity. 
 
